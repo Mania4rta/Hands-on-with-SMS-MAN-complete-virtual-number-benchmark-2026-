@@ -1,4 +1,4 @@
-# sms-activate review：SMS-MAN 实测报告 2026
+# [sms-activate review：SMS-MAN 实测报告 2026](https://sms-man.com/?ref=nima)
 
 ## 1. sms-activate review 简介
 
